@@ -109,3 +109,7 @@ Writing stored procedures for automation
 
 Database design thinking (library dataset simulation)
 
+
+<img width="962" height="450" alt="image" src="https://github.com/user-attachments/assets/2e5297fa-0a50-4da2-ae1d-d48435d4b4b3" />
+
+
